@@ -1,0 +1,1 @@
+This is the general project for the Java persistence API
