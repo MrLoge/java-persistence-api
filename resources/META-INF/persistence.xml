@@ -11,10 +11,8 @@
 
     <persistence-unit name="org.hibernate.orgapp.jpa">
         <description>
-            Persistence unit for the JPA tutorial of the Hibernate Getting Started Guide
+            General JPA (Java Persistence API) project for the OrgApp
         </description>
-
-        <class>org.hibernate.tutorial.em.Event</class>
 
         <properties>
             <property name="javax.persistence.jdbc.driver" value="org.h2.Driver" />
